@@ -5,15 +5,12 @@ I'm Gavin, and I spend way too much time on my computer.
 </p>
 
 <h4 align="center">
-💻 Lab tech @University of Ottawa | 🌱 building automated Neuroscience CV<a href="https://github.com/SilasiLab/HASRAv2"> applications </a> | 💬 connect <a href="gavin.heidenreich@gmail.com">@gmail</a>
-</h4>
-
-<h4 align="center">
-💻 Lab tech @University of Ottawa | 🌱 building automated Neuroscience CV<a href="https://github.com/SilasiLab/HASRAv2"> applications </a> | 
-![Wechat](https://img.shields.io/badge/-Wechat-07C160?style=flat-square&logo=WeChat) <a href=>@gmail</a>
+💻 Lab tech @University of Ottawa | 🌱 building automated Neuroscience CV<a href="https://github.com/SilasiLab/HASRAv2"> applications </a>
 </h4>
 
 ![Wechat](https://img.shields.io/badge/-Wechat-07C160?style=flat-square&logo=WeChat) <h4 align="left">
+  gavingsf
+  </h4>
 
 
 
