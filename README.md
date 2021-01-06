@@ -8,8 +8,8 @@ I'm Gavin, and I spend way too much time on my computer.
 💻 Lab tech @University of Ottawa | 🌱 building automated Neuroscience CV<a href="https://github.com/SilasiLab/HASRAv2"> applications </a>
 </h4>
 
-![Wechat](https://img.shields.io/badge/-Wechat-07C160?style=flat-square&logo=WeChat)<p2 align="left">: gavingsf</p2>
-![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail)<p2 align="left">: gavin.heidenreich@gmail.com</p2>
+![Wechat](https://img.shields.io/badge/-Wechat-07C160?style=flat-square&logo=WeChat&logoColor=white)<p2 align="left">: gavingsf</p2>
+![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)<p2 align="left">: gavin.heidenreich at gmail.com</p2>
 
 
 
