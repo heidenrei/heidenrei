@@ -8,9 +8,7 @@ I'm Gavin, and I spend way too much time on my computer.
 💻 Lab tech @University of Ottawa | 🌱 building automated Neuroscience CV<a href="https://github.com/SilasiLab/HASRAv2"> applications </a>
 </h4>
 
-![Wechat](https://img.shields.io/badge/-Wechat-07C160?style=flat-square&logo=WeChat) <p3 align="left">
-  gavingsf
-  </p3>
+![Wechat](https://img.shields.io/badge/-Wechat-07C160?style=flat-square&logo=WeChat)<p3 align="left">gavingsf</p3>
 
 
 
