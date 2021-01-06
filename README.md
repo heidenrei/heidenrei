@@ -30,7 +30,7 @@ I'm Gavin, and I spend way too much time on my computer.
 ![scikit-learn](https://img.shields.io/badge/-scikitlearn-000000?style=flat-square&logo=scikit-learn)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat-square&logo=LeetCode)
-![Jetson](https://img.shields.io/badge/-Jetson-76B900?style=flat-square&logo=Nvidia)
+![Jetson](https://img.shields.io/badge/-Jetson-76B900?style=flat-square&logo=Nvidia&logoColor=white)
 
 
 
