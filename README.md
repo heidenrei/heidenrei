@@ -5,7 +5,7 @@ I'm Gavin, and I spend way too much time on my computer.
 </p>
 
 <h4 align="center">
-💻 Lab tech @University of Ottawa | 🌱 building automated Neuroscience CV<a href="https://github.com/SilasiLab/HASRAv2"> applications </a> | 💬 connect <a href="gavin.heidenreich@gmail.com">@[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)</a>
+💻 Lab tech @University of Ottawa | 🌱 building automated Neuroscience CV<a href="https://github.com/SilasiLab/HASRAv2"> applications </a> | 💬 connect <a href="gavin.heidenreich@gmail.com">@gmail</a>
 </h4>
 
 <br/>
