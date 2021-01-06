@@ -23,7 +23,7 @@ I'm Gavin, and I spend way too much time on my computer.
 ![Shell](https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-772953?style=flat-square&logo=Ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikitlearn-000000?style=flat-square&logo=scikit-learn)
 ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
