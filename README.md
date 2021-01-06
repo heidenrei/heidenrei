@@ -14,7 +14,7 @@ I'm Gavin, and I spend way too much time on my computer.
 
 <br/>
 <h3 align="center">
-⚡ My Tech Stack
+⚡ My Stack
 </h3>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -30,6 +30,9 @@ I'm Gavin, and I spend way too much time on my computer.
 ![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat-square&logo=LeetCode)
 ![Jetson](https://img.shields.io/badge/-Jetson-76B900?style=flat-square&logo=Nvidia&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC264?style=flat-square&logo=Linux&logoColor=black)
+
+
 
 
 <!--START_SECTION:waka-->
