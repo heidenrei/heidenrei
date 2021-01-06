@@ -8,7 +8,12 @@ I'm Gavin, and I spend way too much time on my computer.
 💻 Lab tech @University of Ottawa | 🌱 building automated Neuroscience CV<a href="https://github.com/SilasiLab/HASRAv2"> applications </a> | 💬 connect <a href="gavin.heidenreich@gmail.com">@gmail</a>
 </h4>
 
-![Wechat](https://img.shields.io/badge/-Wechat-07C160?style=flat-square&logo=WeChat)
+<h4 align="center">
+💻 Lab tech @University of Ottawa | 🌱 building automated Neuroscience CV<a href="https://github.com/SilasiLab/HASRAv2"> applications </a> | 
+![Wechat](https://img.shields.io/badge/-Wechat-07C160?style=flat-square&logo=WeChat) <a href=>@gmail</a>
+</h4>
+
+![Wechat](https://img.shields.io/badge/-Wechat-07C160?style=flat-square&logo=WeChat) <h4 align="left">
 
 
 
@@ -26,11 +31,8 @@ I'm Gavin, and I spend way too much time on my computer.
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-772953?style=flat-square&logo=Ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikitlearn-000000?style=flat-square&logo=scikit-learn)
-![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat-square&logo=LeetCode)
-![Quantopian](https://img.shields.io/badge/-Quantopian-C51E25?style=flat-square&logo=Quantopian)
-
 
 
 <!--START_SECTION:waka-->
