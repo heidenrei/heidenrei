@@ -30,8 +30,6 @@ I'm Gavin, and I spend way too much time on my computer.
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat-square&logo=LeetCode)
 ![Jetson](https://img.shields.io/badge/-Jetson-76B900?style=flat-square&logo=Nvidia&logoColor=white)
-![VSC](https://img.shields.io/badge/-Visual%Studio%Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
 
 
 <!--START_SECTION:waka-->
