@@ -5,13 +5,24 @@ I'm Gavin, and I spend way too much time on my computer.
 </p>
 
 <h4 align="center">
-💻 Lab tech @University of Ottawa | 🌱 building automated Neuroscience CV<a href="https://github.com/SilasiLab/HASRAv2"> applications </a> | 💬 connect <a href="gavin.heidenreich@gmail.com">@email</a>
+💻 Lab tech @University of Ottawa | 🌱 building automated Neuroscience CV<a href="https://github.com/SilasiLab/HASRAv2"> applications </a> | 💬 connect <a href="gavin.heidenreich@gmail.com">@[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)</a>
 </h4>
 
 <br/>
 <h3 align="center">
-My Tech Stacks
+⚡ My Tech Stack
 </h3>
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+
+
+
+
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87536%20lines%20of%20code-blue)
