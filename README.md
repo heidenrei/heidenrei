@@ -27,8 +27,8 @@ I'm Gavin, and I spend way too much time on my computer.
 ![Git](https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white)
 ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode)
-![scikit-learn](https://img.shields.io/badge/-scikit-learn-F7931E?style=flat-square&logo=scikit-learn)
+![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat-square&logo=LeetCode)
+![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E?style=flat-square&logo=scikit-learn)
 ![Quantopian](https://img.shields.io/badge/-Quantopian-C51E25?style=flat-square&logo=Quantopian)
 
 
