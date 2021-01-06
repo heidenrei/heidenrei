@@ -8,9 +8,8 @@ I'm Gavin, and I spend way too much time on my computer.
 💻 Lab tech @University of Ottawa | 🌱 building automated Neuroscience CV<a href="https://github.com/SilasiLab/HASRAv2"> applications </a>
 </h4>
 
-![Wechat](https://img.shields.io/badge/-Wechat-07C160?style=flat-square&logo=WeChat&logoColor=white)<p2 align="left">: gavingsf</p2>
-![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)<p2 align="left">: gavin.heidenreich at gmail.com</p2>
-
+![Wechat](https://img.shields.io/badge/-gavingsf-07C160?style=flat-square&logo=WeChat&logoColor=white)
+![Gmail](https://img.shields.io/badge/-gavin.heidenreich-D14836?style=flat-square&logo=Gmail&logoColor=white)
 
 
 
@@ -31,6 +30,7 @@ I'm Gavin, and I spend way too much time on my computer.
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat-square&logo=LeetCode)
 ![Jetson](https://img.shields.io/badge/-Jetson-76B900?style=flat-square&logo=Nvidia&logoColor=white)
+![VSC](https://img.shields.io/badge/-Visual%Studio%Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
 
