@@ -12,7 +12,6 @@ I'm Gavin, and I spend way too much time on my computer.
 ![Gmail](https://img.shields.io/badge/-gavin.heidenreich-D14836?style=flat-square&logo=Gmail&logoColor=white)
 
 
-
 <br/>
 <h3 align="center">
 ⚡ My Tech Stack
