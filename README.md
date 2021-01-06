@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there 👋</h3>
+<h3 align="center"> Hi there <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"></h3>
 
 <p align="center">
 I'm Gavin, and I spend way too much time on my computer.
