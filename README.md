@@ -36,7 +36,7 @@ I'm Gavin, and I spend way too much time on my computer.
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87511%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87479%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -65,10 +65,14 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     14 mins             █████████████████░░░░░░░░   69.07% 
+Text                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.9% 
+Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.87% 
+Ruby                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.0%
 
 ```
 
