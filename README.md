@@ -37,7 +37,7 @@ I'm Gavin, and I spend way too much time on my computer.
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4916%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5540%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -76,8 +76,9 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ███████████████████████░░   92.86% 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+Python                   13 repos            █████████████████████░░░░   86.67% 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
