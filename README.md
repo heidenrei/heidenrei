@@ -5,7 +5,7 @@ I'm Gavin, and I spend way too much time on my computer.
 </p>
 
 <h4 align="center">
-💻 Lab tech @University of Ottawa | 🌱 building automated Neuroscience CV<a href="https://github.com/SilasiLab/HASRAv2"> applications </a>
+💻 I build stuff 🌱 </a>
 </h4>
 
 ![Wechat](https://img.shields.io/badge/-gavingsf-07C160?style=flat-square&logo=WeChat&logoColor=white)
