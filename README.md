@@ -37,14 +37,14 @@ I'm Gavin, and I spend way too much time on my computer.
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11566%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11568%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning    148 commits    ████████░░░░░░░░░░░░░░░░░   34.5% 
-🌆 Daytime    155 commits    █████████░░░░░░░░░░░░░░░░   36.13% 
-🌃 Evening    98 commits     █████░░░░░░░░░░░░░░░░░░░░   22.84% 
+🌆 Daytime    157 commits    █████████░░░░░░░░░░░░░░░░   36.6% 
+🌃 Evening    96 commits     █████░░░░░░░░░░░░░░░░░░░░   22.38% 
 🌙 Night      28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.53%
 
 ```
