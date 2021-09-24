@@ -37,14 +37,14 @@ I'm Gavin, and I spend way too much time on my computer.
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11712%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11688%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    164 commits    ██████████░░░░░░░░░░░░░░░   39.52% 
-🌆 Daytime    172 commits    ██████████░░░░░░░░░░░░░░░   41.45% 
-🌃 Evening    68 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
+🌞 Morning    166 commits    ██████████░░░░░░░░░░░░░░░   40.0% 
+🌆 Daytime    171 commits    ██████████░░░░░░░░░░░░░░░   41.2% 
+🌃 Evening    67 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
 🌙 Night      11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65%
 
 ```
@@ -84,6 +84,6 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2021
+ Last Updated on 24/09/2021
 <!--END_SECTION:waka-->
 
