@@ -37,7 +37,7 @@ I'm Gavin, and I spend way too much time on my computer.
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11620%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11667%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -84,6 +84,6 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2021
+ Last Updated on 04/10/2021
 <!--END_SECTION:waka-->
 
