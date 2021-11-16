@@ -37,7 +37,7 @@ I'm Gavin, and I spend way too much time on my computer.
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11672%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11716%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -51,8 +51,8 @@ I'm Gavin, and I spend way too much time on my computer.
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
-Tuesday      97 commits     █████░░░░░░░░░░░░░░░░░░░░   23.15% 
+Monday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+Tuesday      99 commits     ██████░░░░░░░░░░░░░░░░░░░   23.63% 
 Wednesday    64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
 Thursday     74 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
 Friday       72 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.18% 
@@ -84,6 +84,6 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2021
+ Last Updated on 16/11/2021
 <!--END_SECTION:waka-->
 
