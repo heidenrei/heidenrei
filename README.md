@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"></h3>
 
 <p align="center">
-I'm Gavin, and I spend way too much time on my computer.
+I'm G, and I spend way too much time on my computer.
 </p>
 
 <h4 align="center">
@@ -9,7 +9,7 @@ I'm Gavin, and I spend way too much time on my computer.
 </h4>
 
 ![Wechat](https://img.shields.io/badge/-gavingsf-07C160?style=flat-square&logo=WeChat&logoColor=white)
-![Gmail](https://img.shields.io/badge/-gavin.heidenreich-D14836?style=flat-square&logo=Gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/--D14836?style=flat-square&logo=Gmail&logoColor=white)
 
 
 <br/>
