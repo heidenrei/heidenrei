@@ -37,7 +37,7 @@ I'm G, and I spend way too much time on my computer.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13%20Thousand%20lines%20of%20code-blue)
 
@@ -86,6 +86,6 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2022 18:44:14 UTC
+ Last Updated on 07/08/2022 18:45:39 UTC
 <!--END_SECTION:waka-->
 
