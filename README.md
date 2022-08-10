@@ -37,7 +37,7 @@ I'm G, and I spend way too much time on my computer.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13%20Thousand%20lines%20of%20code-blue)
 
@@ -53,13 +53,13 @@ I'm G, and I spend way too much time on my computer.
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
-Tuesday      55 commits     ███████░░░░░░░░░░░░░░░░░░   30.05% 
-Wednesday    30 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
+Monday       30 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
+Tuesday      51 commits     ███████░░░░░░░░░░░░░░░░░░   27.87% 
+Wednesday    27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
 Thursday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
 Friday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.01% 
 Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.57% 
-Sunday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.3%
+Sunday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.21%
 
 ```
 
@@ -86,6 +86,6 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2022 18:45:39 UTC
+ Last Updated on 10/08/2022 18:46:44 UTC
 <!--END_SECTION:waka-->
 
