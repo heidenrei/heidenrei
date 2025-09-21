@@ -37,7 +37,40 @@ I'm G, and I spend way too much time on my computer.
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-199.9%20thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                875 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+🌆 Daytime                1059 commits        ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+🌃 Evening                1978 commits        ███████████░░░░░░░░░░░░░░   44.52 % 
+🌙 Night                  531 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   596 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Tuesday                  977 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Wednesday                636 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Thursday                 560 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Friday                   528 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Saturday                 454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Sunday                   692 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Python** 
 
@@ -50,6 +83,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 18:40:30 UTC
+ Last Updated on 21/09/2025 18:42:05 UTC
 <!--END_SECTION:waka-->
 
