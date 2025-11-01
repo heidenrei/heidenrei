@@ -37,8 +37,6 @@ I'm G, and I spend way too much time on my computer.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-199.9%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -83,6 +81,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2025 18:48:03 UTC
+ Last Updated on 01/11/2025 18:42:13 UTC
 <!--END_SECTION:waka-->
 
